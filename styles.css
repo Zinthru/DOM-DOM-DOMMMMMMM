@@ -1,0 +1,17 @@
+.divButton {
+    background-color: black;
+   width: 15vw;
+   display:inline-table;
+   
+}
+
+
+p {
+    color: white;
+    font-size: 4em;
+    text-align: center;  
+}
+
+.button {
+    position: absolute;
+}
